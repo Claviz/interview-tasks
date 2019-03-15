@@ -12,6 +12,6 @@ You can use any library you may find useful - for example, `moment`.
 
 Example of the app:
 
-![alt text](https://imgur.com/cS2Ido6.gif)
+![](./assets/front-end-example.gif)
 
 **Your app shouldn't be absolutely the same as seen in the example - just try to recreate as much functionality and design as possible.**
