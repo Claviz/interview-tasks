@@ -17,6 +17,6 @@ You can use **any technology/library you are comfortable with**, but using some 
   - [@ngrx](https://github.com/ngrx/platform) - Redux powered by RxJS
   - [Material](https://github.com/angular/material2) - UI
 
-## How to submit a result
+## How to submit results
 
-When everytihng is done, push your changes to some publically available repository (https://bitbucket.com or https://github.com/) and send us it's link.
+When everything is done, push your changes to some publicly available repository (https://bitbucket.com or https://github.com/) and send us its link.
